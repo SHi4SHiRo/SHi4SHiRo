@@ -1,5 +1,99 @@
 # 💫 About Me:
-# 🕷️ Hey, I'm Francis!<br><br>**Your friendly neighborhood developer... with a suspicious amount of side projects.**<br><br>I'm an **IT Graduate, Web Developer, UI/UX Designer, and Digital Artist** from the Philippines. I build websites, break things, fix them, draw things, and occasionally convince AI to cooperate.<br><br>### 🕸️ What I Do<br><br>- 💻 Build web applications<br>- 🎨 Design interfaces & digital art<br>- 🛠️ Troubleshoot IT & networks<br>- 🤖 Experiment with AI & local LLMs<br>- 🌐 Turn random ideas into questionable but functional projects<br><br>### 🧪 My Web-Slinging Toolkit<br><br>`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Python` `C#`  <br>`Figma` `Photoshop` `Krita` `Git` `GitHub` `Ollama` `VS Code`<br><br>### 🕷️ Currently Building<br><br>- 🧠 **Aru** — Personal Model AI Assistant  & Creative Technology Project<br>- 💈 **BARBERU** — AR-Based Barbershop Management System<br>- 📚 **HexAssist** — IT Knowledge Base<br>- 🪶 **FlugelCodex** — My personal digital playground<br><br>### 🕸️ My Philosophy<br><br>🕷️ Just a guy trying to do his part.<br>💻 I write code. I break code. I fix code.<br>🕸️ Webs are kind of my thing.<br>“Anyone can wear the mask.”<br><br>I'm always learning, experimenting, and building something new.<br><br>If it can be designed, coded, automated, or probably shouldn't be running on my laptop...<br><br>**I'll probably try it anyway.** 🕷️
+<h1 align="center">
+  <span style="color:#E31B23;">🔴 About Me</span>
+</h1>
+
+<h2>
+  <span style="color:#E31B23;">🕷️ Hey, I'm Francis!</span>
+</h2>
+
+<p>
+  <strong>Your friendly neighborhood developer... with a suspicious amount of side projects.</strong>
+</p>
+
+<p>
+  I'm an <strong style="color:#E31B23;">IT Graduate, Web Developer, UI/UX Designer, and Digital Artist</strong> from the Philippines.
+  I build websites, break things, fix them, draw things, and occasionally convince AI to cooperate.
+</p>
+
+<h3>
+  <span style="color:#E31B23;">🕷️ What I Do</span>
+</h3>
+
+<ul>
+  <li>💻 Build web applications</li>
+  <li>🎨 Design interfaces & digital art</li>
+  <li>🛠️ Troubleshoot IT & networks</li>
+  <li>🤖 Experiment with AI & local LLMs</li>
+  <li>🌐 Turn random ideas into questionable but functional projects</li>
+</ul>
+
+<h3>
+  <span style="color:#E31B23;">🕸️ My Web-Slinging Toolkit</span>
+</h3>
+
+<p>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+  <code>PHP</code>
+  <code>MySQL</code>
+  <code>Python</code>
+  <code>C#</code>
+  <br>
+  <code>Figma</code>
+  <code>Photoshop</code>
+  <code>Krita</code>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>Ollama</code>
+  <code>VS Code</code>
+</p>
+
+<h3>
+  <span style="color:#E31B23;">🔴 Currently Building</span>
+</h3>
+
+<ul>
+  <li>🧠 <strong style="color:#E31B23;">Aru</strong> — Personal Model AI Assistant & Creative Technology Project</li>
+  <li>💈 <strong style="color:#E31B23;">BARBERU</strong> — AR-Based Barbershop Management System</li>
+  <li>📚 <strong style="color:#E31B23;">HexAssist</strong> — IT Knowledge Base</li>
+  <li>🪶 <strong style="color:#E31B23;">FlugelCodex</strong> — My personal digital playground</li>
+</ul>
+
+<h3>
+  <span style="color:#E31B23;">🕷️ My Philosophy</span>
+</h3>
+
+<p>
+  🔴 Just a guy trying to do his part.<br>
+  💻 I write code. I break code. I fix code.<br>
+  🕸️ Webs are kind of my thing.
+</p>
+
+<blockquote>
+  <strong>“Anyone can wear the mask.”</strong>
+</blockquote>
+
+<p>
+  I'm always learning, experimenting, and building something new.
+</p>
+
+<p>
+  If it can be designed, coded, automated, or probably shouldn't be running on my laptop...
+</p>
+
+<h3>
+  <span style="color:#E31B23;">I'll probably try it anyway. 🕷️</span>
+</h3>
+
+<hr>
+
+<p align="center">
+  <span style="color:#B71C1C;">🕷️</span>
+  <strong style="color:#E31B23;">With great code comes great responsibility.</strong>
+  <span style="color:#B71C1C;">🕷️</span>
+</p>
 
 
 ## 🌐 Socials:
